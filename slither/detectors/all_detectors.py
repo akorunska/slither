@@ -80,5 +80,7 @@ from .operations.missing_zero_address_validation import MissingZeroAddressValida
 from .functions.dead_code import DeadCode
 from .statements.write_after_write import WriteAfterWrite
 
+from .verification.bmc import BMC
+
 #
 #
